@@ -1,0 +1,64 @@
+h1{
+  background-color: yellow;
+  border: 2px solid red;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+  
+}
+.all{
+  border: 2px solid red;
+  position:absolute;
+  
+}
+.reactive_nonmetals{
+  background-color: rgb(223, 108, 108);
+  border:2px solid red;
+  font-weight: bold;
+
+ 
+  
+  
+  
+}
+.Alkali{
+  background-color:violet;
+  color:black;
+  border:2px solid red;
+  font-weight: bold;
+  }
+.alkaline_earthmetals{
+  background-color:rgb(12, 229, 226);
+  border:2px solid red;
+  font-weight: bold;
+}
+.transition_metals{
+  background-color: rgb(223, 250, 88);
+  border:2px solid red;
+  font-weight: bold;
+}
+.radioactive td{
+  background-color: blanchedalmond;
+  border:2px solid red;
+  font-weight: bold;
+}
+.radioactive{
+  background-color: blanchedalmond;
+  border:2px solid red;
+  font-weight: bold;
+}
+.metalloids{
+  background-color: springgreen;
+  border:2px solid red;
+  font-weight: bold;
+}
+.post_transitionmetals{
+  background-color: chocolate;
+  border:2px solid red;
+  font-weight: bold;
+}
+.noble{
+  background-color: aqua;
+  border:2px solid red;
+  font-weight: bold;
+  color: green;
+}
